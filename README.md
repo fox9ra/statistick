@@ -1,0 +1,2 @@
+# statistick
+Init
